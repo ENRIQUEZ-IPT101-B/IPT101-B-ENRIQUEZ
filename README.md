@@ -1,1 +1,12 @@
-# IPT101-B-ENRIQUEZ
+# ENRIQUEZS' PROJECT
+An acitvity about how to manage a README.md file
+
+## Authors
+
+[ENRIQUEZ-IPT101-B](https://github.com/ENRIQUEZ-IPT101-B)
+
+
+
+## Sample Code
+
+printf("Hello Wolrd");
