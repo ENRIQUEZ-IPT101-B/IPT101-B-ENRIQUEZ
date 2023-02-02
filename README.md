@@ -10,3 +10,6 @@ An acitvity about how to manage a README.md file
 ## Sample Code
 
 printf("Hello Wolrd");
+
+## How to Install
+Step 1: Download the zip file or use git clone
