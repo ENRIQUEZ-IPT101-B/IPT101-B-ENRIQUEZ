@@ -9,7 +9,7 @@ An acitvity about how to manage a README.md file
 
 ## Sample Code
 
-printf("Hello Wolrd");
+printf("Hello World");
 
 ## How to Install
 Step 1: Download the zip file or use git clone
