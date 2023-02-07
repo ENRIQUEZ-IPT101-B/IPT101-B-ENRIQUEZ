@@ -3,7 +3,7 @@ An acitvity about how to manage a README.md file
 
 ## Authors
 
-[ENRIQUEZ-IPT101-B](https://github.com/ENRIQUEZ-IPT101-B)
+- [ENRIQUEZ-IPT101-B](https://github.com/ENRIQUEZ-IPT101-B)
 
 
 
