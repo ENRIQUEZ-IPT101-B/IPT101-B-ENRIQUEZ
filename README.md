@@ -14,5 +14,8 @@ printf("Hello World");
 ## How to Install
 Step 1: Download the zip file or use git clone
 
+## UNDOING GIT CHANGES
+first commit
+
 Branch one
 Branch two
